@@ -1,26 +1,26 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
-siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+url: "https://mc.alleria.pl"
+baseurl: ""
+siteIcon: https://alleria.pl/image/favicon.png
+siteYear: 2023
 siteFooterlink: /about
-showinSearchEngines: true
+showinSearchEngines: false
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: Alleria MC Server
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverIP: mc.alleria.pl:5358
 useBedrockForOnlineStatus: false
 
 
 # Discord information
 discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordServerID: 434036804635852811
+discordChannelID: 1085060936781533245
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
