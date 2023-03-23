@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://mc.alleria.pl/map
+tourl: http://poweredge.alleria.pl/game-servers/minecraft/map/
 ---
