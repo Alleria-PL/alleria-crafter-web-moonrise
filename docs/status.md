@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://uptime.alleria.pl/status/mc
+tourl: https://monitor.alleria.pl/status/minecraft
 ---
