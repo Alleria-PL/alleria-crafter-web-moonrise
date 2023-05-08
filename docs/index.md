@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home2
 navname: Home
 
 # Cells at the bottom of the page
