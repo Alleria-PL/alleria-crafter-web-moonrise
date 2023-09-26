@@ -13,7 +13,7 @@ showinSearchEngines: false
 # Set basic server info
 serverName: Alleria MC Server
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 89.78.157.16:25569
+serverIP: 89.66.28.86:25569
 serverIPmod: 89.78.157.16:25560
 useBedrockForOnlineStatus: false
 
