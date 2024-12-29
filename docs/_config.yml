@@ -1,20 +1,19 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://mc.alleria.pl"
+url: "https://crafter.alleria.pl"
 baseurl: ""
 siteIcon: https://alleria.pl/image/favicon.png
-siteYear: 2023
+siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: false
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Alleria MC Server
+serverName: Crafterooo MC Server
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 89.66.28.86:25569
-serverIPmod: 89.78.157.16:25560
+serverIP: network5.alleria.pl:25677
 useBedrockForOnlineStatus: false
 
 
