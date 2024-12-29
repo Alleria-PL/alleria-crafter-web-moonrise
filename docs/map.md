@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://crafterooo.alleria.pl/mapa
+tourl: https://crafterooo.alleria.pl
 ---
