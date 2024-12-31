@@ -1,7 +1,7 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://crafter.alleria.pl"
+url: "https://klocki-time.alleria.pl"
 baseurl: ""
 siteIcon: https://alleria.pl/image/favicon.png
 siteYear: 2024
@@ -11,9 +11,9 @@ showinSearchEngines: false
 
 
 # Set basic server info
-serverName: Crafterooo MC Server
+serverName: Klocki Time MC Server
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: network5.alleria.pl:25677
+serverIP: network6.alleria.pl:61852
 useBedrockForOnlineStatus: false
 
 
@@ -22,7 +22,7 @@ discordInvite: https://discord.gg/NyzNQWrBZW
 discordServerID: 434036804635852811
 discordChannelID: 1085060936781533245
 
-modpack: https://www.curseforge.com/minecraft/modpacks/all-the-mods-8
+modpack: https://www.curseforge.com/minecraft/modpacks/all-the-mods-9
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
