@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://crafterooo.alleria.pl
+tourl: https://klocki-time-mapa.alleria.pl
 ---
