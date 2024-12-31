@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://klocki-time-mapa.alleria.pl
+tourl: https://kt-mapa.alleria.pl
 ---
