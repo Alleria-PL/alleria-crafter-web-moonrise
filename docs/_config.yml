@@ -13,7 +13,7 @@ showinSearchEngines: false
 # Set basic server info
 serverName: Klocki Time MC Server
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: network6.alleria.pl:61852
+serverIP: network6.alleria.pl:61853
 useBedrockForOnlineStatus: false
 
 
