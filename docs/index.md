@@ -22,5 +22,5 @@ cellLinks:
 
   - cname: Management
     curl: management
-    cimage: media/demo05.jpg
+    cimage: media/demo06.jpg
 ---
