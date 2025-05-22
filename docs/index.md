@@ -20,3 +20,6 @@ cellLinks:
 #    curl: donate
 #    cimage: media/demo05.jpg
 ---
+  - cname: Management
+    curl: donate
+    cimage: media/demo05.jpg
