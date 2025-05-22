@@ -4,7 +4,7 @@
 url: "https://klocki-time.alleria.pl"
 baseurl: ""
 siteIcon: https://alleria.pl/image/favicon.png
-siteYear: 2024
+siteYear: 2024 - 2025
 siteFooterlink: /about
 showinSearchEngines: false
 # googleAnalyticsID: (uncomment to use)
@@ -13,7 +13,7 @@ showinSearchEngines: false
 # Set basic server info
 serverName: Klocki Time MC Server
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: network6.alleria.pl:61853
+serverIP: network5.alleria.pl:60321
 useBedrockForOnlineStatus: false
 
 
